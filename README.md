@@ -1,2 +1,2 @@
 # iris-classifier-project
-simple personal project to learn the basics of pandas and SK-learn in python.
+simple personal project to learn the basics of SK-learn and some data visualization modules in python.
